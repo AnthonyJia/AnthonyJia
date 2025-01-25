@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @AnthonyJia
-- 👀 I’m interested in basketball, boxing, and of course coding!
+- 👋 Hi, I’m Anthony Jiang
+- 👀 I’m interested in basketball, boxing, video games, and of course coding!
 - 🌱 I’m currently learning coding.
 - 💞️ I’m looking to collaborate on (TBD).
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me: antoniojiang705@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I have yet to break a bone in my body.
 
 <!---
 AnthonyJia/AnthonyJia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
