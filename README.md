@@ -2,7 +2,7 @@
 - 👀 I’m interested in basketball, boxing, video games, and of course coding!
 - 🌱 I’m currently learning coding.
 - 💞️ I’m looking to collaborate on (TBD).
-- 📫 How to reach me: antoniojiang705@gmail.com
+- 📫 How to reach me: cwe9gz@virginia.edu
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I have yet to break a bone in my body.
 
